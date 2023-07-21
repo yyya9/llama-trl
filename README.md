@@ -5,6 +5,7 @@
 - Implement LoRA (Low-Rank Adaption of Large Language Models) with PEFT (Parameter-Efficient Fine-Tuning)
 - Collect instruction-following data from this repo [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)
 
+The datasets are collected and ranked by GPT4, not by human.
 
 ### Setup
 
